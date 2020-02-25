@@ -1,0 +1,15 @@
+paper.pdf
+.silly_file_to_force_rebuild
+*.fdb_latexmk
+*.fls
+*.aux
+*.ent
+*.bbl
+*.blg
+*.log
+*.out
+*.dvi
+*.synctex.gz
+.DS_Store
+*/.DS_Store
+~*
